@@ -2,6 +2,7 @@
 
 # Objective:
 - Print out size of list in text file.
+- Elements in list are space-separated.
 
 **Example:** 
 >> cat list.txt
